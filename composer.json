@@ -1,0 +1,13 @@
+{
+    "name": "euf/media_entity_h5p",
+    "type": "drupal-module",
+    "description": "Media entity H5P provider.",
+    "keywords": [
+    ],
+    "homepage": "https://github.com/EuropeanUniversityFoundation/media_entity_h5p",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://github.com/EuropeanUniversityFoundation/media_entity_h5p/issues ",
+        "source": "https://github.com/EuropeanUniversityFoundation/media_entity_h5p"
+    }
+}

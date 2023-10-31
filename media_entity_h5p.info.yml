@@ -3,7 +3,7 @@ type: module
 description: Media entity H5P provider.
 package: H5P
 core: 8.x
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^8 || ^9 || ^10
 dependencies:
   - drupal:media
   - h5p:h5p

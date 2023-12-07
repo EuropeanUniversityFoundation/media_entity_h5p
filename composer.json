@@ -1,13 +1,32 @@
 {
     "name": "euf/media_entity_h5p",
     "type": "drupal-module",
-    "description": "Media entity H5P provider.",
+    "description": "Provides a Media Source Plugin for H5P.",
     "keywords": [
+        "Drupal",
+        "H5P"
     ],
     "homepage": "https://github.com/EuropeanUniversityFoundation/media_entity_h5p",
-    "minimum-stability": "dev",
     "support": {
-        "issues": "https://github.com/EuropeanUniversityFoundation/media_entity_h5p/issues ",
+        "issues": "https://github.com/EuropeanUniversityFoundation/media_entity_h5p/issues",
         "source": "https://github.com/EuropeanUniversityFoundation/media_entity_h5p"
-    }
+    },
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Tiago Simões",
+            "email": "tiago.simoes@uni-foundation.eu",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "drupal/h5p": "^2.0@alpha"
+    },
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ]
 }

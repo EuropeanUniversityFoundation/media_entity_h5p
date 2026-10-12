@@ -20,13 +20,7 @@
         }
     ],
     "require": {
+        "drupal/core": "^10.3 || ^11",
         "drupal/h5p": "^2.0@alpha"
-    },
-    "minimum-stability": "dev",
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://packages.drupal.org/8"
-        }
-    ]
+    }
 }
